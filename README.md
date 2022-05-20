@@ -1,27 +1,18 @@
 hey it's me, Andrew.
 so as many of you saw the blooket hacks wern't working. This is a fork of an old version, and should work, but be warned as it will may or may not work as blooket continues to by updated.
 
-If you notic any bugs or glitches ask me and i'll figure it out.
+If you notice any bugs or glitches ask me and i'll figure it out.
 
-thanks- Andrew Timberlake
-
-P.S. oh my god why does the aquatic box hate me so much-
+Thanks- Andrew Timberlake
 
 
 
 
+note: I also obviously don't own this code, so thanks to lol-jude for creating the hacks. 
 
 
 
-TO THE PEOPLE  SAYING THESE ARE FAKE AND WILL GET YOU BANNED READ BELOW:
 
-🌟PLEASE STAR THIS PROJECT🌟
-
-Join the Discord for support: https://discord.gg/pushfr
-
-if you get banned this is not my issue, as these are against Blooket's TOS
-
--lol-jude
 
 # HOW TO USE:
 
@@ -41,9 +32,6 @@ THESE INSTRUCTIONS WERE PROVIDED BY @hankypoo7
 While using these hacks, there is a chance you can get banned. Use these at your own risk.
 I am not responsible for if you get in any trouble while using these hacks.
 
-# DO NOT STEAL MY WORK!
-
-I am in the process of taking legal action against someone stealing my code and posting it as their own. They modified my code as well as deleted all credit towards me. Do not steal my work as I will take legal actions.
 
 # Blooket Info
 
@@ -72,5 +60,3 @@ The Get Crypto code is just like the Get gold code but only works in Crypto hack
 Instant Win
 Instant win code will automatically make you win in the racing mode.
 There you go!
-
-All codes still working!
