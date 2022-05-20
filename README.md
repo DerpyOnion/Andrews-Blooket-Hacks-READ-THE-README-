@@ -1,3 +1,18 @@
+hey it's me, Andrew.
+so as many of you saw the blooket hacks wern't working. This is a fork of an old version, and should work, but be warned as it will may or may not work as blooket continues to by updated.
+
+If you notic any bugs or glitches ask me and i'll figure it out.
+
+thanks- Andrew Timberlake
+
+P.S. oh my god why does the aquatic box hate me so much-
+
+
+
+
+
+
+
 TO THE PEOPLE  SAYING THESE ARE FAKE AND WILL GET YOU BANNED READ BELOW:
 
 🌟PLEASE STAR THIS PROJECT🌟
